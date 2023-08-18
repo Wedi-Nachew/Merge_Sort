@@ -18,4 +18,3 @@ function fibsRec(num, arr = [0, 1]) {
 
     return arr;
 }
-console.log(fibsRec(8));
